@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shubham Prasad (@subham37853) a self tought full stack developer
 - 👀 I’m interested in development (mostly backend) 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web frameworks and technologies
 - 📫 How to reach me https://www.linkedin.com/in/shubham-prasad-902234154/
